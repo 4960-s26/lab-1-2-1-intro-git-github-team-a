@@ -1,0 +1,11 @@
+mastersj_git_reference
+
+Completed:
+
+Introductions to Git Commits
+Branching in Git
+Merging in Git
+Git Fetchin’
+Git Pullin’
+Faking Teamwork
+Git Pushin’
